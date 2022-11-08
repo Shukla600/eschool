@@ -98,6 +98,9 @@ line-height: 36px;
 .baner_part a:hover{
     background-color:#56548c;
 }
+.baner_part span{
+color: #21b573;
+}
 .feature{
 
 }
